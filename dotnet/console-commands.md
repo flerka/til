@@ -9,3 +9,8 @@
     // add project to solution
     dotnet sln add PROJECT_FOLDER/PROJECT_NAME.csproj
 ```
+
+# Add package to project
+```csharp
+    dotnet add .\PROJECT_FOLDER\PROJECT_NAME.csproj package PACKAGE_NAME
+```
