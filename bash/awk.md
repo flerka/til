@@ -1,4 +1,4 @@
-# Add computed column to csv + regex search in another column.
+## Add computed column to csv + regex search in another column.
 
 Example
 ```

@@ -1,14 +1,14 @@
-# Add worktree
+## Add worktree
 ```
 git worktree add ../<folder-name-where-worktree-created> <branch-name-you-want-to-work>
 ```
 
-# Remove worktree
+## Remove worktree
 ```
 git worktree remove ../<worktree-folder-name>
 ```
 
-# Worktree list
+## Worktree list
 ```
 git worktree all
 ```
